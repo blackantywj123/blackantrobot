@@ -1,0 +1,16 @@
+..\..\output\app_beep.o: ..\..\APP\App_Beep.c
+..\..\output\app_beep.o: ..\..\APP\App_Beep.h
+..\..\output\app_beep.o: ..\..\BSP\BSP_Gpio.h
+..\..\output\app_beep.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\app_beep.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\app_beep.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\app_beep.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\app_beep.o: ..\..\APP\stm32f10x_conf.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\stm32f10x_adc.h
+..\..\output\app_beep.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\stm32f10x_dma.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\stm32f10x_tim.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\app_beep.o: ..\..\Libraries\FWlib\inc\misc.h
